@@ -1,4 +1,4 @@
-# 
+# Turbo Android Studio scripts for Mac OS | Instant Android Studio scripts for PC Windows. Featuring team-workspaces and merge-conflict-resolution — optimized for maximum performance on every platform.
 
 
 
